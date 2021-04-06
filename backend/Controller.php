@@ -2,7 +2,6 @@
 
 namespace backend;
 
-use common\models\BaseModel;
 use common\models\ExtendedModel;
 
 class Controller
